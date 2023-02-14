@@ -5,10 +5,6 @@
  
  This program requires tenorflow 2.X (2.10 have been verified as working)
 
- Author: ltq, zwq
-
- Email: ltq22@mails.tsinghua.edu.cn, zwq22@mails.tsinghua.edu.cn
-
  Date: 2023.2.14
 '''
 
